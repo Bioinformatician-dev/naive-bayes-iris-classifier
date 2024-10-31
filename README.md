@@ -38,13 +38,15 @@ The project covers:
 ## Usage
 1.Run the main script to train and evaluate each model:
 ```bash
-   python classifier.ipynb
+    cd path/to/your/directory
+    classifier.ipynb
 ```
 2.The results, including confusion matrices and classification reports, will be printed in the console.
 
 ## Dependencies
 
 * Python 3.7+
+* notebook
 * scikit-learn
 * pandas
 * numpy
@@ -54,7 +56,7 @@ The project covers:
 3.Install these dependencies by running:
 
 ```bash
-   pip install scikit-learn pandas numpy matplotlib seaborn
+   pip install notebook scikit-learn pandas numpy matplotlib seaborn
 ```
 
 ## Results
