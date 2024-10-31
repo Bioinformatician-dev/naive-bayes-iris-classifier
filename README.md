@@ -23,6 +23,16 @@ The project covers:
   - **ComplementNB**
 - Comparing model performances using accuracy, confusion matrices, and classification reports.
 
+## Dependencies
+
+* Python 3.7+
+* notebook
+* scikit-learn
+* pandas
+* numpy
+* matplotlib
+* seaborn
+
 ## Installation
 
 1. Clone the repository:
@@ -36,22 +46,13 @@ The project covers:
    pip install -r requirements.txt
 ```
 ## Usage
-1.Run the main script to train and evaluate each model:
+1.Run the main script to train and evaluate each model: Open Jupyter Notebook and navigate to the classifier.ipynb file:
 ```bash
-    cd path/to/your/directory
     classifier.ipynb
 ```
 2.The results, including confusion matrices and classification reports, will be printed in the console.
 
-## Dependencies
 
-* Python 3.7+
-* notebook
-* scikit-learn
-* pandas
-* numpy
-* matplotlib
-* seaborn
 
 3.Install these dependencies by running:
 
