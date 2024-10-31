@@ -13,9 +13,6 @@ import numpy as np
 
 # **Load Dataset**
 
-
-
-
 #LoadtheIrisdataset
 iris = load_iris()
 
