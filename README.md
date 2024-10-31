@@ -19,3 +19,4 @@ The project covers:
    ```bash
    git clone https://github.com/your-username/naive-bayes-iris-classifier.git
    cd naive-bayes-iris-classifier
+   ```
