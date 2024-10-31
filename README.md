@@ -46,19 +46,19 @@ The project covers:
    pip install -r requirements.txt
 ```
 ## Usage
-1.Run the main script to train and evaluate each model: Open Jupyter Notebook and navigate to the classifier.ipynb file:
-```bash
-    classifier.ipynb
-```
-2.The results, including confusion matrices and classification reports, will be printed in the console.
 
 
-
-3.Install these dependencies by running:
+1.Install these dependencies by running:
 
 ```bash
    pip install notebook scikit-learn pandas numpy matplotlib seaborn
 ```
+2.Run the main script to train and evaluate each model: Open Jupyter Notebook and navigate to the classifier.ipynb file:
+```bash
+    classifier.ipynb
+```
+3.The results, including confusion matrices and classification reports, will be printed in the console.
+
 
 ## Results
 Each Naive Bayes model is evaluated using the following metrics:
