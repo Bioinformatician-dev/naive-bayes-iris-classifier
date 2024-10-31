@@ -6,7 +6,7 @@ This project demonstrates the application of various Naive Bayes classifiers on 
 ## Project Structure
 ```bash
 naive-bayes-iris-classifier/
-├── classifier.py                   # Main script to run the models
+├── classifier.ipynb                   # Main script to run the models
 ├── requirements.txt          # List of dependencies
 └── README.md                 # Project documentation
 ```
@@ -38,7 +38,7 @@ The project covers:
 ## Usage
 1.Run the main script to train and evaluate each model:
 ```bash
-   python classifier.py
+   python classifier.ipynb
 ```
 2.The results, including confusion matrices and classification reports, will be printed in the console.
 
