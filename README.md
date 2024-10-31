@@ -6,7 +6,7 @@ This project demonstrates the application of various Naive Bayes classifiers on 
 ## Project Structure
 ```bash
 naive-bayes-iris-classifier/
-├── main.py                   # Main script to run the models
+├── classifier.py                   # Main script to run the models
 ├── requirements.txt          # List of dependencies
 └── README.md                 # Project documentation
 ```
