@@ -38,7 +38,7 @@ The project covers:
 ## Usage
 1.Run the main script to train and evaluate each model:
 ```bash
-   python classifier.ipynb
+   python classifier.py
 ```
 2.The results, including confusion matrices and classification reports, will be printed in the console.
 
